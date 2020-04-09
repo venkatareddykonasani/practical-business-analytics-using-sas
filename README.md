@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Practical Business Analytics Using SAS*](http://www.apress.com/9781484200445) by Shailendra Kadre and Venkat Reddy Konasani (Apress, 2015).
+This repository accompanies [*Practical Business Analytics Using SAS*](http://www.apress.com/9781484200445) by Venkata Reddy Konasani and Shailendra Kadre(Apress, 2015).
 
 ![Cover image](9781484200445.jpg)
 
